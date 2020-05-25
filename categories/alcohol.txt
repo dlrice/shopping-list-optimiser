@@ -2,3 +2,4 @@ doombar
 wine
 baileys
 amaretto
+smirnoff vodka

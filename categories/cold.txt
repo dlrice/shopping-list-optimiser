@@ -3,3 +3,4 @@ houmous
 coleslaw
 vege pizzas
 smoked salmon
+pepperoni pizza
